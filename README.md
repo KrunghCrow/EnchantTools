@@ -124,5 +124,5 @@ if (randomEnchantedTool != null)
 ```
 ## Credits
 
-* Default : Original plugin maker/maintainer
+* Default : Original plugin Developer/Maintainer
 * Krungh Crow : Current maintainer
